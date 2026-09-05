@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=view\ fileName
+comment0.target=LifeModel(LifeView,\ java.lang.String)
+comment0.text=Construct\ a\ new\ model\ using\ a\ particular\ file
+comment1.params=view
+comment1.target=LifeModel(LifeView)
+comment1.text=Constructor\ a\ randomized\ model
+comment2.params=
+comment2.target=void\ pause()
+comment2.text=pause\ the\ simulation\ (the\ pause\ button\ in\ the\ GUI
+comment3.params=
+comment3.target=void\ resume()
+comment3.text=resume\ the\ simulation\ (the\ pause\ button\ in\ the\ GUI
+comment4.params=
+comment4.target=void\ run()
+comment4.text=run\ the\ simulation\ (the\ pause\ button\ in\ the\ GUI
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.text=called\ each\ time\ timer\ fires
+comment6.params=
+comment6.target=void\ oneGeneration()
+comment6.text=main\ logic\ method\ for\ updating\ the\ state\ of\ the\ grid\ /\ simulation
+numComments=7
