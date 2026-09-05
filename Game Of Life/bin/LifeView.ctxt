@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LifeView()
+comment1.params=mg
+comment1.target=void\ updateView(LifeCell[][])
+comment1.text=entry\ point\ from\ the\ model,\ requests\ grid\ be\ redisplayed
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3
